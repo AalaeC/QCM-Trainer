@@ -1,0 +1,94 @@
+[
+  {
+    "question": "Les neutropénies acquises isolées :",
+    "choices": [
+      "Sont moins fréquentes que les neutropénies constitutionnelles",
+      "Peuvent être d’origine bactérienne",
+      "Peuvent être d’origine immune",
+      "Se caractérisent par un taux de PNN inférieur à 1,5 giga/l chez l’adulte"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Au cours de l’exploration des neutropénies :",
+    "choices": [
+      "Le myélogramme n’est pas indispensable au diagnostic",
+      "Le frottis sanguin ne permet pas une orientation étiologique des neutropénies",
+      "Les neutropénies acquises peuvent être associées à d’autres cytopénies",
+      "Les syndromes myélodysplasiques peuvent être à l’origine de neutropénies acquises"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Les neutropénies acquises :",
+    "choices": [
+      "Sont toujours dues à une atteinte médullaire",
+      "Peuvent être d’origine périphérique par consommation",
+      "Peuvent être d’origine médicamenteuse",
+      "Sont héréditaires"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Une neutropénie d’origine iatrogène :",
+    "choices": [
+      "Est toujours dose dépendante",
+      "Ne se complique jamais en agranulocytose aigue",
+      "Peut être due à un mécanisme immuno-allergique",
+      "Peut être isolée ou associée à d’autres cytopénies"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Dans l’agranulocytose iatrogène :",
+    "choices": [
+      "Le taux des polynucléaires éosinophiles est inférieur à 300/ mm³",
+      "Le taux des polynucléaires neutrophiles est inférieur à 1500/ mm³",
+      "Le mécanisme peut être immuno-allergique",
+      "Le mécanisme peut être toxique"
+    ],
+    "correct": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Devant une neutropénie à l’hémogramme, il faut réaliser un frottis sanguin pour :",
+    "choices": [
+      "Eliminer une fausse neutropénie",
+      "Voir s’il y a des signes de dysgranulopoïèse",
+      "Confirmer la présence de corps de Heinz",
+      "Rechercher des drépanocytes"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "L’agranulocytose :",
+    "choices": [
+      "Est définie par un taux de polynucléaires neutrophiles inférieur à 300/ mm³",
+      "Est observée uniquement dans l’agranulocytose congénitale de Kostmann",
+      "Peut être d’origine toxique ou immuno-allergique",
+      "Peut être observée au cours d’une leucémie myéloïde chronique"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  }
+]

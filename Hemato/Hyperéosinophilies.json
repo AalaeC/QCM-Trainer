@@ -1,0 +1,95 @@
+[
+  {
+    "question": "Les hyperéosinophilies :",
+    "choices": [
+      "Sont définies par un taux de polynucléaires éosinophiles supérieur à 0,3 giga/L",
+      "Peuvent être d’origine primaire (centrale ou médullaire)",
+      "Peuvent être d’origine secondaire (périphérique)",
+      "Sont dues à la mobilisation des polynucléaires éosinophiles médullaires par l’Interleukine 5"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Les polynucléaires éosinophiles :",
+    "choices": [
+      "Sont recrutés de la moelle vers les tissus grâce à l’action de l’interleukine 5",
+      "Peuvent avoir des taux augmentés dans les pathologies tumorales",
+      "N’augmentent pas dans les allergies médicamenteuses",
+      "Peuvent être responsable de toxicité tissulaire"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Le syndrome hyperéosinophilique (SHE) se caractérise par :",
+    "choices": [
+      "Une hyperéosinophilie sanguine ne dépassant pas 1,5 giga/L",
+      "Une chronicité supérieure à six mois",
+      "Des lésions viscérales",
+      "Une étiologie toujours parasitaire"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Dans le syndrome hyperéosinophilique :",
+    "choices": [
+      "L’hyperéosinophilie est chronique",
+      "L’hyperéosinophilie sanguine doit être supérieure à 5 giga/L",
+      "On n’observe jamais de lésions viscérales",
+      "L’étiologie est toujours due aux hémopathies malignes"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "L’interleukine 5 est une cytokine qui :",
+    "choices": [
+      "intervient dans la différenciation éosinophile de la granulopoiése",
+      "Intervient dans la mobilisation des polynucléaires éosinophiles médullaires vers le sang",
+      "Est produite par les lymphocytes T helper 2",
+      "Est produite par les globules rouges"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Les polynucléaires éosinophiles sont :",
+    "choices": [
+      "Capable de provoquer une toxicité tissulaire",
+      "Capable de migrer vers les tissus périphériques suite à la sécrétion de l’interleukine 5 par les lymphocytes B",
+      "Augmentés dans le sang uniquement dans les hémopathies",
+      "Souvent augmentés dans le sang au cours d’une leucémie myéloïde chronique"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Lequel(lesquels) parmi les examens suivants demander en premier pour l’exploration d’une hyperlymphocytose isolée, associée à la présence sur frottis sanguin de grandes cellules lymphoïdes hyperbasophiles chez un patient de 19 ans présentant des angines et des adénopathies cervicales multiples, sans hépato-splénomégalie :",
+    "choices": [
+      "Une biopsie ostéomédullaire",
+      "Un immunophénotypage lymphocytaire",
+      "Des sérologies virales",
+      "Une biopsie ganglionnaire pour examen anatomo-pathologique"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  }
+]

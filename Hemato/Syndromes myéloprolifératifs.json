@@ -1,0 +1,304 @@
+[
+  {
+    "question": "Les syndromes myéloprolifératifs sont :",
+    "choices": [
+      "dus à une atteinte clonale de la cellule souche hématopoïétique",
+      "des hémopathies congénitales",
+      "Caractérisés par une prolifération accrue d’une ou plusieurs lignées myéloïdes",
+      "Définis par un taux de blastes médullaires supérieur à 20%"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "La leucémie myéloïde chronique :",
+    "choices": [
+      "Est un syndrome myélodysplasique",
+      "Présente une hyperplasie de la lignée granuleuse avec hyperleucocytose et myélémie.",
+      "Est caractérisée par la présence de la translocation t(9;22)(q34;q11)",
+      "Dans sa phase chronique montre un taux de blastes inférieur à 5%."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Une thrombocytose peut être observée dans :",
+    "choices": [
+      "La leucémie myéloïde chronique",
+      "La thrombocytémie essentielle",
+      "La leucémie aigue lymphoblastique",
+      "La mégaloblastose médullaire"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Laquelle (lesquelles) de ces propositions peut(peuvent) être compatible(s) avec un taux de blastes médullaire de 15% :",
+    "choices": [
+      "Une leucémie myéloïde chronique dans sa phase chronique",
+      "Une leucémie myéloïde chronique dans sa phase d’accélération",
+      "Une leucémie aigue",
+      "Un syndrome myélodysplasique avec excès de blastes type 2 selon la classification OMS"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Laquelle (lesquelles) de ces propositions peut(peuvent) être compatible(s) avec un taux de blastes sanguin de 4% :",
+    "choices": [
+      "Une leucémie myéloïde chronique dans sa phase chronique",
+      "Une leucémie lymphoïde chronique",
+      "Un syndrome myélodysplasique avec excès de blastes type 1 selon la classification OMS",
+      "Une mégaloblastose médullaire"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Les syndromes myéloprolifératifs présentent :",
+    "choices": [
+      "Une hyperplasie myéloïde avec prédominance sur une des trois lignées myéloïdes",
+      "Une lymphocytose",
+      "Des sidéroblastes en couronne sur le myélogramme",
+      "Un risque de transformation en leucémie aigue"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Devant une polynucléose neutrophile avec myélémie, il faut évoquer le diagnostic :",
+    "choices": [
+      "D’une leucémie myéloïde chronique",
+      "D’un état infectieux ou inflammatoire sévère",
+      "De métastases médullaires d’un cancer",
+      "D’un syndrome mononucléosique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Une thrombocytose peut être observée dans :",
+    "choices": [
+      "Un syndrome myélodysplasique",
+      "Un état infectieux ou inflammatoire sévères",
+      "Une anémie par carence martiale",
+      "Une Thrombocytémie essentielle"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "La polyglobulie de Vaquez :",
+    "choices": [
+      "Est définie chez l’homme par un taux d’hémoglobine supérieur à 16,5 g/dl",
+      "N’est jamais associée à la mutation JAK2",
+      "Est un syndrome myéloprolifératif BCR-ABL1 négatif",
+      "Est caractérisée par une prolifération myéloïde prédominant sur la lignée érythrocytaire"
+    ],
+    "correct": [
+      0,2,
+      3
+    ]
+  },
+  {
+    "question": "Dans la polyglobulie de Vaquez :",
+    "choices": [
+      "Le myélogramme est nécessaire pour poser le diagnostic",
+      "La biopsie ostéo-médullaire fait partie des critères de diagnostic",
+      "La translocation t(9;22)(q34;q11) est présente",
+      "Les valeurs de l’hématocrite sont normales"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "La thrombocytémie essentielle :",
+    "choices": [
+      "Est un syndrome myéloprolifératif caractérisé par une thrombocytose chronique",
+      "Est définie par la présence du transcrit BCR-ABL1",
+      "Est définie par un taux de plaquettes supérieur à 150 giga/L",
+      "Est également appelée myélofibrose primitive"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "La thrombocytémie essentielle est caractérisée par :",
+    "choices": [
+      "Une thrombocytose chronique",
+      "Une hyperplasie mégacaryocytaire au niveau médullaire",
+      "Un marqueur cytogénétique spécifique",
+      "Un marqueur de biologie moléculaire spécifique"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "La myélofibrose primitive est caractérisée par :",
+    "choices": [
+      "Une fibrose médullaire et une hématopoïèse extra-médullaire",
+      "La présence sur le frottis sanguin de dacryocytes",
+      "La présence de la translocation t(9;22)(q34;q11)",
+      "Un taux d’hémoglobine supérieur à 16,5 g/dl"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Dans la myélofibrose primitive :",
+    "choices": [
+      "La biopsie ostéo-médullaire est indispensable au diagnostic",
+      "La splénomégalie est souvent présente",
+      "La translocation t(9;22)(q34;q11) est absente",
+      "On n’observe jamais de thrombocytose"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi ces syndromes myéloprolifératifs, lequel (lesquels) est (sont) BCR-ABL1 négatifs :",
+    "choices": [
+      "La leucémie myéloïde chronique",
+      "La polyglobulie de Vaquez",
+      "La thrombocytémie essentielle",
+      "La myélofibrose primitive"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "La leucémie myéloïde chronique se caractérise par :",
+    "choices": [
+      "Une prolifération maligne de la lignée granulocytaire",
+      "Une dysplasie des éléments figurés du sang.",
+      "La présence de la mutation JAK2",
+      "Une augmentation de l’activité tyrosine kinase"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Au cours d’une leucémie myéloïde chronique, l’hémogramme met en évidence :",
+    "choices": [
+      "Une hyperleucocytose caractéristique",
+      "Une anémie hypochrome microcytaire",
+      "L’absence de myélémie",
+      "Une lymphocytose chronique"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Le myélogramme dans le diagnostic d’une leucémie myéloïde chronique montre :",
+    "choices": [
+      "Une moelle riche avec hyperplasie de la lignée granuleuse",
+      "Un taux de blastes inférieur à 5% pendant la phase chronique",
+      "Un taux de blastes inférieur à 5% pendant la phase d’accélération",
+      "L’absence de polynucléaires éosinophiles"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "La myélémie est :",
+    "choices": [
+      "Le passage de précurseurs de la lignée granuleuse dans le sang périphérique",
+      "Est constamment présente dans la leucémie lymphoïde chronique",
+      "Est spécifique de la polyglobulie de Vaquez",
+      "Observée uniquement dans la leucémie myéloïde chronique"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "La polyglobulie de Vaquez se caractérise :",
+    "choices": [
+      "Cliniquement par une érythrose cutanéo-muqueuse",
+      "Cliniquement par un syndrome infectieux",
+      "Généralement par la présence de la mutation JAK2 V617F",
+      "Par des taux d’érythropoïétine élevés"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "La mutation JAK2 V617F :",
+    "choices": [
+      "Est recherchée par immunophénotypage",
+      "Peut être présente dans la polyglobulie de Vaquez",
+      "Peut être présente dans la thrombocytémie essentielle",
+      "Peut être absente dans la myélofibrose primitive"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "La mutation JAK2 V617F peut être présente dans :",
+    "choices": [
+      "La thrombocytémie essentielle",
+      "La myélofibrose primitive",
+      "La polyglobulie de Vaquez",
+      "La leucémie myéloïde chronique"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Dans la thrombocytémie essentielle :",
+    "choices": [
+      "Au moins une des mutations des gènes JAK2, MPL ou CALR est présente",
+      "Le réarrangement BCR-ABL1 est négatif",
+      "Le myélogramme montre une aplasie médullaire",
+      "Le taux de plaquettes est supérieur à 450 giga/L"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  }
+]

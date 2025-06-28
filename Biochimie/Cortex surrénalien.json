@@ -1,0 +1,644 @@
+[
+    {
+        "question": "Les surrénales :",
+        "choices": [
+            "Sont situées sur les faces supérieures des reins",
+            "Sécrètent des hormones sexuelles mâles",
+            "Sont constituées d’un cortex et d’une médullaire",
+            "Sécrètent des hormones régulant la natrémie"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien (CS) :",
+        "choices": [
+            "La zone glomérulée du CS est externe et sécrète les minéralocorticoïdes",
+            "La zone réticulée du CS est interne et sécrète les glucocorticoïdes",
+            "La sécrétion des minéralocorticoïdes est régulée par le système rénine-angiotensine-aldostérone",
+            "Le LDL-cholestérol est le substrat de la stéroïdogenèse corticosurrénalienne"
+        ],
+        "correct": [
+            0,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien (CS) :",
+        "choices": [
+            "La zone glomérulée du CS est interne",
+            "La zone réticulée du CS sécrète les androgènes",
+            "La sécrétion des minéralocorticoïdes est régulée par le système rénine-angiotensine-aldostérone",
+            "La 11β-hydroxylase catalyse la transformation du composé S en cortisol"
+        ],
+        "correct": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien (CS) :",
+        "choices": [
+            "La zone glomérulée du CS est interne",
+            "La zone réticulée du CS sécrète les androgènes",
+            "La sécrétion des minéralocorticoïdes est régulée par le système hypothalamohypophysaire",
+            "La 11β-hydroxylase catalyse la transformation du composé S en cortisol"
+        ],
+        "correct": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Les seuils du cortisol sérique basal prédictif d’une insuffisance surrénale et d’un axe corticotrope normal sont respectivement de 138 nmol/L et 365 nmol/L",
+            "Un cycle normal de sécrétion du cortisol présente un maximum le matin et un minimum à minuit",
+            "La perte du cycle nycthéméral est un élément de diagnostic des syndromes de Cushing",
+            "Toutes les réponses sont justes"
+        ],
+        "correct": [
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Les seuils du cortisol sérique basal prédictif d’une insuffisance surrénale et d’un axe corticotrope normal sont respectivement de 138 nmol/L et 365 nmol/L",
+            "Un cycle normal présente un maximum à midi et un minimum à minuit",
+            "La perte du cycle est un élément de diagnostic des syndromes de Cushing",
+            "Le taux de composé S peut devenir important en cas de déficit congénital surrénalien en 11β-hydroxylase"
+        ],
+        "correct": [
+            0,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Les seuils du cortisol sérique basal prédictif d’une insuffisance surrénale et d’un axe corticotrope normal sont respectivement de 138 nmol/L et 365 nmol/L",
+            "Un cycle normal de sécrétion du cortisol présente un maximum le matin et un minimum à minuit",
+            "La perte du cycle est un élément de diagnostic des syndromes de Cushing",
+            "Le taux de composé S peut devenir important en cas de déficit congénital surrénalien en 11β-hydroxylase"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Les seuils du cortisol sérique basal prédictif d’une insuffisance surrénale et d’un axe corticotrope normal sont respectivement de 138 nmol/L et 365 nmol/L",
+            "Un cycle normal de sécrétion du cortisol présente un minimum le matin et un maximum à minuit",
+            "La persistance du cycle nycthéméral est un élément de diagnostic des syndromes de Cushing",
+            "Une insuffisance de freinage avec le test à la dexaméthasone est objectivée en cas de sécrétion ectopique d’ACTH"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Le test au synacthène est un test de stimulation",
+            "Le test à la CRH permet d’apprécier les réserves en ACTH",
+            "Le test dynamique au captopril évalue la fonction glucocorticoïde",
+            "Une insuffisance de freinage avec le test à la dexaméthasone est objectivée en cas de sécrétion ectopique d’ACTH"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Le test à la métopirone est un test de stimulation indirecte de l’ACTH",
+            "Une réponse explosive au test à la métopirone évoque la maladie de Cushing",
+            "Le test dynamique au captopril évalue la fonction glucocorticoïde",
+            "Une insuffisance de freinage avec le test à la dexaméthasone est objectivée en cas de sécrétion ectopique d’ACTH"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortex surrénalien :",
+        "choices": [
+            "Le test au captopril est un test dynamique",
+            "Le test au captopril permet l’exploration de la fonction minéralocorticoïde",
+            "Le test au captopril est moins dangereux que celui de perfusion salée",
+            "Le test de perfusion salée est un test de stimulation"
+        ],
+        "correct": [
+            0,
+            1,
+            2            
+        ]
+    },
+    {
+        "question": "Parmi les hormones suivantes, laquelle ou lesquelles est ou sont sécrétée(s) par la corticosurrénale ?",
+        "choices": [
+            "L’adrénaline",
+            "La testostérone",
+            "L’ACTH",
+            "L’aldostérone"
+        ],
+        "correct": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortisol :",
+        "choices": [
+            "Il augmente la glycémie",
+            "Il exerce un effet anti-inflammatoire",
+            "À forte dose, il possède une activité minéralocorticoïde",
+            "Il renforce l’immunité cellulaire et humorale"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "À propos du cortisol :",
+        "choices": [
+            "Il a une activité immunosuppressive",
+            "Le cortisol circulant est majoritairement lié à la transcortine",
+            "Le cortisol circulant est majoritairement lié à l’albumine",
+            "Le cortisol circulant est lié à 80% à la CBG"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "La sécrétion de cortisol :",
+        "choices": [
+            "Suit un rythme nycthéméral",
+            "Suit un rythme annuel",
+            "Est inhibée en réponse au stress",
+            "Est maximale le soir au coucher"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "À propos du cortisol libre urinaire :",
+        "choices": [
+            "Son dosage est considéré comme le gold standard pour le diagnostic du syndrome de Cushing",
+            "Son dosage permet de s’affranchir des variations des protéines porteuses",
+            "Aucune étape de purification n’est nécessaire avant le dosage",
+            "Les techniques chromatographiques CPG ou HPLC couplées à la spectrométrie de masse recommandées"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortisol libre urinaire :",
+        "choices": [
+            "Son dosage est considéré comme le gold standard pour le diagnostic du syndrome de Cushing",
+            "Son dosage permet de s’affranchir des variations des protéines porteuses",
+            "Aucune étape de purification n’est nécessaire avant le dosage",
+            "Les techniques chromatographiques CPG ou HPLC couplées à la spectrométrie de masse recommandées"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "À propos du cortisol libre urinaire :",
+        "choices": [
+            "Son dosage est considéré comme le gold standard pour le diagnostic du syndrome de Cushing",
+            "Son dosage permet de s’affranchir des variations des protéines porteuses",
+            "Une étape de purification est nécessaire avant le dosage",
+            "Les techniques immunologiques sont recommandées pour sa quantification fiable"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Sont classés dans le groupe des tests de stimulation :",
+        "choices": [
+            "Le test au synacthène",
+            "Le test à la dexaméthasone",
+            "Le test à la CRH",
+            "Toutes les réponses sont justes"
+        ],
+        "correct": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Sont classés dans le groupe des tests de stimulation :",
+        "choices": [
+            "Le test au synacthène",
+            "Le test à la dexaméthasone",
+            "Le test à la CRH",
+            "Le test d’HGPO dans l’exploration de l’hypersécrétion de la GH"
+        ],
+        "correct": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Le test à la dexaméthasone minute :",
+        "choices": [
+            "Est un test de freinage nocturne",
+            "Permet d’éliminer un syndrome de Cushing",
+            "Une réponse positive est attestée par un taux effondré du cortisol sérique",
+            "Toutes les réponses sont justes"
+        ],
+        "correct": [
+            3
+        ]
+    },
+    {
+        "question": "Le test à la dexaméthasone minute :",
+        "choices": [
+            "Est un test de freinage nocturne",
+            "Permet d’éliminer un syndrome de Cushing",
+            "Une réponse positive est attestée par un taux effondré du cortisol sérique",
+            "Doit être réalisé sous surveillance médicale"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "À propos du syndrome de Cushing :",
+        "choices": [
+            "Augmentation de l’excrétion urinaire du cortisol",
+            "Perte de la rythmicité circadienne de la sécrétion du cortisol",
+            "Le test de freinage nocturne montre l’absence de freinage",
+            "Toutes les réponses sont vraies"
+        ],
+        "correct": [
+            3
+        ]
+    },
+    {
+        "question": "A Propos du syndrome de cushing :",
+        "choices": [
+            "Il se caractérise par une augmentation de l’excrétion urinaire du cortisol",
+            "Il se caractérise par le maintien de la rythmicité circadienne de la sécrétion du cortisol",
+            "Le test de freination nocturne montre l’absence de freination de la sécrétion",
+            "Toutes les réponses sont vraies"
+        ],
+        "correct": [0,2]
+    },
+    {
+        "question": "À propos du syndrome de Cushing :",
+        "choices": [
+            "Il se caractérise par une augmentation de l’excrétion urinaire du cortisol",
+            "Une abolition de la rythmicité circadienne de la sécrétion du cortisol",
+            "Le test de freination nocturne est négatif",
+            "Toutes les réponses sont vraises"
+        ],
+        "correct": [
+            0,1
+        ]
+    },
+    {
+        "question": "La maladie de Cushing se caractérise par :",
+        "choices": [
+            "Une sécrétion augmentée d’ACTH",
+            "Une perte du cycle nycthéméral",
+            "L’absence de réponse au test à la CRH",
+            "La présence d’un adénome hypophysaire sécrétant l’ACTH"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "La maladie de Cushing se caractérise par :",
+        "choices": [
+            "Une sécrétion augmentée d’ACTH",
+            "Une perte du cycle nycthéméral",
+            "L’absence de réponse au test à la CRH",
+            "Une insuffisance de freinage avec le test à la dexaméthasone"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "La maladie de Cushing se caractérise par :",
+        "choices": [
+            "Une sécrétion augmentée d’ACTH",
+            "La persistance du cycle nycthéméral",
+            "L’absence de réponse au test à la CRH",
+            "La présence d’un adénome hypophysaire sécrétant l’ACTH"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "La maladie de Cushing se caractérise par :",
+        "choices": [
+            "Une hyposécrétion d’ACTH",
+            "Une abolition du cycle nycthéméral",
+            "L’absence de réponse au test à la CRH",
+            "La présence d’un adénome hypophysaire sécrétant l’ACTH"
+        ],
+        "correct": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "Au cours d'un syndrome de Cushing d'origine périphérique, on observe :",
+        "choices": [
+            "Une diminution de l'ACTH plasmatique",
+            "Une cortisolémie élevée à minuit",
+            "Une rétention sodée",
+            "Une mélanodermie"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Dans le syndrome de Cushing on peut observer :",
+        "choices": [
+            "Cortisol libre urinaire élevé",
+            "Cortisol plasmatique élevé",
+            "Une réponse au test de freinage rapide par la dexaméthasone",
+            "Un rythme nycthéméral du cortisol conservé"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "À propos de l’aldostérone :",
+        "choices": [
+            "Il s’agit du chef de file des minéralocorticoïdes",
+            "Elle est sécrétée au niveau de la zone réticulée de la corticosurrénale",
+            "Elle entraîne, au niveau rénal, une réabsorption hydro-sodée",
+            "Elle diminue la pression sanguine"
+        ],
+        "correct": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Quelles propositions sont vraies à propos de l’aldostérone ?",
+        "choices": [
+            "Elle est synthétisée au niveau de la zone glomérulée de la surrénale",
+            "Elle appartient à la famille des glucocorticoïdes",
+            "Elle conduit à la réabsorption rénale de sodium",
+            "Elle conduit à l’excrétion rénale de potassium"
+        ],
+        "correct": [
+            0,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "Le syndrome de Conn :",
+        "choices": [
+            "Correspond à l’hyperaldostéronisme primitif",
+            "Se caractérise par une alcalose métabolique",
+            "Se caractérise par une hypokaliémie",
+            "Est une cause rare, mais non exceptionnelle d’HTA sévère"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "Le syndrome de Conn :",
+        "choices": [
+            "Correspond à l’hyperaldostéronisme primitif",
+            "Se caractérise par une acidose métabolique",
+            "Se caractérise par une hyperkaliémie",
+            "Est une cause rare, mais non exceptionnelle d’HTA sévère"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Le syndrome de Conn :",
+        "choices": [
+            "Correspond à l’hyperaldostéronisme primitif",
+            "Est une cause rare de l’HTA",
+            "Se caractérise par une alcalose métabolique",
+            "Se caractérise par une hyperkaliémie"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Quel est le mécanisme de l’hypertension en cas d’adénome de Conn ?",
+        "choices": [
+            "Rénine basse",
+            "Hyperaldostéronisme primaire",
+            "Hypercorticisme",
+            "Catécholamines augmentées"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "La maladie d’Addison :",
+        "choices": [
+            "Est une insuffisance surrénale primitive",
+            "Se caractérise par une hypotension",
+            "Se caractérise par une hypokaliémie",
+            "Se manifeste par une acidose métabolique"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    },
+    {
+        "question": "La maladie d’Addison :",
+        "choices": [
+            "Est une insuffisance surrénale primitive",
+            "Se caractérise par une hypertension",
+            "Se caractérise par une hyperkaliémie",
+            "Se manifeste par une acidose métabolique"
+        ],
+        "correct": [
+            0,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "La maladie d’Addison :",
+        "choices": [
+            "Est une insuffisance surrénale primitive",
+            "Se caractérise par une hypertension",
+            "Se caractérise par une hypokaliémie",
+            "Se manifeste par une acidose métabolique"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "À propos de l’insuffisance surrénalienne aiguë :",
+        "choices": [
+            "Une hyponatrémie",
+            "Une hyperkaliémie",
+            "Une hypernatrurie",
+            "Une hypertension artérielle"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Lors de l’insuffisance surrénalienne aiguë, on observe :",
+        "choices": [
+            "Une hyponatrémie",
+            "Un hypoaldostéronisme",
+            "Une alcalose métabolique",
+            "Une kaliurèse élevée"
+        ],
+        "correct": [
+            0,
+            1	
+        ]
+    },
+    {
+        "question": "Lors de l’insuffisance surrénalienne aiguë, on observe :",
+        "choices": [
+            "Une hypernatrémie",
+            "Un hyperaldostéronisme",
+            "Une acidose métabolique",
+            "Une kaliurèse effondrée"
+        ],
+        "correct": [
+            2,3
+        ]
+    },
+    {
+        "question": "Quel est le mécanisme de l’hypertension en cas d’hyperplasie bilatérale des surrénales ?",
+        "choices": [
+            "Hyperaldostéronisme",
+            "Hypercorticisme",
+            "Métanéphrines augmentées",
+            "Rénine basse"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Dans le système rénine-angiotensine, quelles propositions sont vraies à propos de la rénine ?",
+        "choices": [
+            "Elle est sécrétée par les surrénales",
+            "Elle est sécrétée par les poumons",
+            "Elle est sécrétée par les reins",
+            "Elle catalyse la transformation de l’angiotensinogène en angiotensine I"
+        ],
+        "correct": [
+            2,
+            3
+        ]
+    },
+    {
+        "question": "Quelles propositions sont vraies à propos de l’angiotensinogène ?",
+        "choices": [
+            "C’est un précurseur synthétisé par le foie",
+            "Il peut être synthétisé par les surrénales",
+            "Il possède une activité hypertensive propre",
+            "C’est un substrat de la rénine"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Quelles propositions sont vraies à propos de l’enzyme de conversion ?",
+        "choices": [
+            "Elle est synthétisée principalement au niveau des poumons",
+            "Elle est synthétisée uniquement au niveau du rein",
+            "Elle a pour substrat l’angiotensinogène",
+            "Elle catalyse la transformation de l’angiotensine I en angiotensine II"
+        ],
+        "correct": [
+            0,
+            3
+        ]
+    },
+    {
+        "question": "Il est exact que la rénine :",
+        "choices": [
+            "Est une enzyme protéolytique",
+            "Est sécrétée par le rein quand la pression rénale de perfusion diminue",
+            "Catalyse la transformation de l’angiotensine I en angiotensine II",
+            "Catalyse la transformation de l’angiotensinogène en angiotensine I"
+        ],
+        "correct": [
+            0,
+            1,
+            3
+        ]
+    }
+]

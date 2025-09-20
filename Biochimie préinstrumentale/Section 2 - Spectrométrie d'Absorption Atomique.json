@@ -1,0 +1,150 @@
+[
+  {
+    "question": "Parmi les propositions suivantes, quelle(s) est(sont) celle(s) qui est(sont) exacte(s) ? La spectrométrie d'absorption atomique :",
+    "choices": [
+      ") Est une méthode d'analyse quantitative d'éléments atomiques à l'état de vapeur",
+      "Exploite l'absorption d'énergie lumineuse fournie par une lampe à cathode creuse",
+      "Utilise un four en graphite pour vaporiser les éléments",
+      "Est mise en œuvre sur des spectromètres à double faisceau",
+      "Nécessite une correction des interférences par lampe au deuterium"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les méthodes spectrales, quelle(s) est (sont) celle(s) qui est (sont) exacte(s) ?",
+    "choices": [
+      ") Il est possible de doser le sodium et le potassium plasmatique par photométrie de flamme",
+      "En photométrie de flamme, l'introduction de l'échantillon peut se faire par l'intermédiaire d'un four en graphite",
+      "La lampe à cathode creuse utilisée en absorption atomique est utilisable pour tous les éléments",
+      "La flamme d'un photomètre de flamme peut atteindre 5000°C",
+      "Le dosage d'un élément par photométrie de flamme nécessite l'emploi d'un étalon interne"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les méthodes spectrales quelle(s) est(sont) celle(s) qui est(sont) exacte(s) ?",
+    "choices": [
+      ") Les cuves de mesure utilisées en fluorimétrie sont en verre",
+      "La photométrie de flamme permet le dosage du calcium",
+      "En absorption atomique, les rayonnements lumineux sont produits par une lampe à cathode creuse",
+      "La loi de Beer-Lambert est vérifiée si les solutions sont diluées",
+      "En photométrie de flamme, les éléments à doser sont vaporisés dans un four"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la spectrophotométrie d'absorption atomique, quelle(s) est(sont) celle(s) qui est(sont) exacte(s) ?",
+    "choices": [
+      ") Les rayonnements lumineux sont émis par une lampe à cathode creuse",
+      "C'est une des méthodes de dosage des benzodiazépines",
+      "La solution à analyser est placée dans une cuve en quartz",
+      "Les échantillons sont introduits dans un four",
+      "Cette méthode permet le dosage des sels de zinc"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les phénomènes de fluorescence, indiquez celle(s) qui est (sont) exacte(s) :",
+    "choices": [
+      ") Lors du phénomène, il y a un dégagement de chaleur",
+      "L'état excité est dit singulet contrairement à la phosphorescence où il est dit doublet",
+      "Il faut utiliser une longueur d'onde supérieure à 250 nm",
+      "La durée vie de l'état excité est d'environ une nanoseconde",
+      "La Spectrofluorimétrie moléculaire est moins spécifique que la spectrophotométrie d'absorption atomique"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Laquelle(lesquelles) de ces affirmations est(sont) juste(s) ? Par absorption atomique, on peut doser :",
+    "choices": [
+      ") le Na",
+      "le Cu",
+      "le Fe",
+      "le S",
+      "le Pb"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Laquelle(lesquelles) de ces affirmations est(sont) juste(s) ? Le dosage du Ca peut s’effectuer par…",
+    "choices": [
+      ") absorption atomique",
+      "Complexométrie",
+      "Potentiométrie",
+      "spectrophotométrie",
+      "fluorimétrie"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Quelles sont les propositions exactes ? La spectrométrie d’absorption atomique…",
+    "choices": [
+      ") Nécessite une source de chaleur",
+      "Ne s’intéresse pas aux molécules dans leur globalité",
+      "Utilise fréquemment des lampes à cathode creuse spécifiques de l’élément à doser",
+      "Permet le dosage des oligo-éléments",
+      "Est la méthode la plus utilisée pour le dosage du lithium dans le sang"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les atomes suivants, quels sont ceux que l’on peut doser par absorption atomique ?",
+    "choices": [
+      ") S",
+      "Fe",
+      "Pb",
+      "Cu",
+      "Ca"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les affirmations suivantes, laquelle est exacte ? La spectrophotométrie d’absorption atomique…",
+    "choices": [
+      ") Permet le dosage de petites molécules",
+      "Obéit à la loi de Beer-Lambert",
+      "Peut utiliser des fours en aluminium",
+      "Ne peut pas être couplée à des méthodes de séparation",
+      "Est une méthode d’analyse élémentaire"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, une seule est exacte. Laquelle ? Un complexe zinc- EDTA est dosé par spectrophotométrie d’absorption atomique. Sous quelle forme ?",
+    "choices": [
+      ") Atome de zinc",
+      "Ions Zinc",
+      "Radical",
+      "Hydroxyde de Zinc",
+      "Oxyde de Zinc"
+    ],
+    "correct": []
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Parmi les propositions suivantes concernant la fluorimétrie, une seule proposition est fausse. Laquelle?",
+    "choices": [
+      ") La longueur d'onde du maximum de fluorescence est plus élevée que la longueur d'onde du maximum d'absorption",
+      "Pour fluorescer, les molécules doivent absorber dans l'UV/visible",
+      "La fluorescence a pour origine l'existence d'électrons excités singulet",
+      "La fluorescence est un phénomène dont la durée est de l'ordre de la seconde",
+      "La fluorescence s'observe dans des molécules à squelette rigide"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la spectrofluorimétrie, une seule proposition est fausse:",
+    "choices": [
+      ") L'intensité de fluorescence est toujours proportionnelle à la concentration",
+      "L'appareil possède un monochromateur d'excitation",
+      "La longueur d'onde d'émission est supérieure à la longueur d'onde d'excitation",
+      "La méthode est plus sensible que la spectrophotométrie UV-visible",
+      "Elle peut-être utilisée comme détecteur en chromatographie liquide"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la fluorimétrie quelle(s) est (sont) celle(s) qui est (sont) exacte(s) ?",
+    "choices": [
+      ") La longueur d'onde d'excitation est supérieure à la longueur d'onde d'émission",
+      "Le phénomène de fluorescence concerne les électrons dans un état triplet",
+      "En solution suffisamment diluée, l'intensité de fluorescence est proportionnelle à la concentration",
+      "Pour donner lieu au phénomène de fluorescence, la durée de vie de l'état excité d'une molécule ne doit pas excéder la dizaine de nanosecondes",
+      "La majorité des molécules sont susceptibles d'être fluorescentes"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Parmi les méthodes suivantes, indiquez celle(s) qui peut(peuvent) être utilisée(s) pour doser la morphine :",
+    "choices": [
+      ") Spectrofluorimétrie moléculaire",
+      "Chromatographie liquide haute performance (HPLC)",
+      "Spectroscopie d'absorption atomique",
+      "Dosage acido-basique en milieu non aqueux",
+      "Complexométrie"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "En spectrofluorimétrie moléculaire, l'intensité de fluorescence émise par une solution de quinine:",
+    "choices": [
+      ") Dépend de la concentration de la solution étudiée",
+      "Dépend du pH de la solution",
+      "Est fonction de la longueur d'onde d'excitation",
+      "Est influencée par la nature du solvant",
+      "Est indépendante de la température de la solution"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes sur la spectrofluorimétrie moléculaire, quelles sont celles qui sont fausses ?",
+    "choices": [
+      ") Le détecteur doit être placé à 90° du trajet optique",
+      "Les échantillons sont nébulisés",
+      "L'intensité de fluorescence est indépendante de la présence d'impuretés",
+      "Le phénomène de quenching contribue à la diminution de la fluorescence",
+      "La linéarité de la méthode de dosage dépend du domaine de concentration"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Parmi les affirmations suivantes, indiquer la (les) affirmation(s) inexacte(s). La spectrofluorimétrie est une technique:",
+    "choices": [
+      ") Très sensible",
+      "Applicable à toutes les molécules organiques",
+      "Utilisable pour des dosages quantitatifs",
+      "Ne nécessitant pas de gamme d'étalonnage",
+      "Effectuée sur des solutions congelées à basse température"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les affirmations suivantes caractérisant la spectrophotométrie, une seule est vraie. Laquelle ?",
+    "choices": [
+      ") La spectrophotométrie UV visible est une spectrophotométrie d'émission",
+      "En spectrophotométrie d'émission, on n'excite pas les molécules",
+      "En fluorimétrie, l'excitation est produite par la chaleur",
+      "En spectrophotométrie moléculaire UV visible, les molécules sont en solution",
+      "la lampe au deutérium est idéale pour la fluorimétrie"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quelle est la proposition inexacte. Concernant la Spectrofluorimétrie moléculaire, l’intensité de fluorescence dépend de :",
+    "choices": [
+      ") La longueur d’onde d’excitation",
+      "Le pH",
+      "La nature du solvant",
+      "La concentration de la solution",
+      "La charge de l’analyte"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Dans quelle méthode utilise-t-on des cuves de mesure en verre ?",
+    "choices": [
+      ") Fluorimétrie",
+      "Spectrophotométrie dans le visible",
+      "Photométrie de flamme",
+      "Absorption atomique",
+      "Polarimétrie"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quelles substances peuvent être analysées directement par Spectrofluorimétrie moléculaire ?",
+    "choices": [
+      ") Quinine",
+      "Riboflavine",
+      "Catécholamines",
+      "Quinolones",
+      "Vitamines B1"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, une seule est exacte. Indiquer laquelle ? Un dosage par photométrie de flamme par émission:",
+    "choices": [
+      ") Met en oeuvre la mesure de l'intensité lumineuse d'un rayonnement polychromatique",
+      "Nécessite une lampe à cathode creuse",
+      "Nécessite l'ionisation des atomes dans la flamme",
+      "Est applicable à la determination du fer sérique",
+      "Est applicable au suivi thérapeutique d'un traitement par le lithium"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi ces propositions, une seule est fausse, laquelle?",
+    "choices": [
+      ") L'émission de lumière après excitation d'une molécule par radiations s'appelle fluorescence",
+      "La raie de diffusion Rayleigh est un artefact de la fluorescence moléculaire",
+      "Un Spectrofluorimétrie possède deux monochromateurs",
+      "la phosphorescence est l'émission de lumière de molécules contenant des atomes de phosphore",
+      "La diffusion Raman est un artefact de la fluorescence moléculaire"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, cocher celle qui est exacte. Un effet bathochrome en spectrophotométrie UV/visible est:",
+    "choices": [
+      ") Une augmentation de l'intensité d'absorption à la longueur d'onde maximale d'absorption",
+      "Une émission de lumière diffuse",
+      "Un déplacement du maximum d'absorption de la molécule vers de plus grandes longueurs d'onde",
+      "Une diffraction de la lumière",
+      "Une absorption de lumière par le solvant"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les spectres atomiques, laquelle est fausse?",
+    "choices": [
+      ") Les éléments à étudier se trouvent à l'état de vapeur atomique",
+      "Les spectres obtenus sont des spectres de raie",
+      "Les éléments étudiés sont essentiellement des métalloïdes",
+      "Le spectre peut-être obtenu, soit par émission soit par absorption",
+      "Les spectres obtenus se situent principalement dans le domaine visible ou ultraviolet"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la Spectrofluorimétrie, une seule proposition est fausse:",
+    "choices": [
+      ") L'intensité de fluorescence est toujours proportionnelle à la concentration",
+      "L'appareil possède un monochromateur d'excitation",
+      "La longueur d'onde d'émission est supérieure à la longueur d'onde d'excitation",
+      "La méthode est plus sensible que la spectrophotométrie UV-visible",
+      "Elle peut-être utilisée comme détecteur en chromatographie liquide"
+    ],
+    "correct": []
+  }
+]

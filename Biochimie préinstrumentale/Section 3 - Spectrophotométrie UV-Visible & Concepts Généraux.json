@@ -1,0 +1,117 @@
+[
+  {
+    "question": "Dans quelle méthode utilise-t-on des cuves de mesure en verre ?",
+    "choices": [
+      ") Fluorimétrie",
+      "Spectrophotométrie dans le visible",
+      "Photométrie de flamme",
+      "Absorption atomique",
+      "Polarimétrie"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, indiquez celles qui sont fausses concernant l'absorption atomique",
+    "choices": [
+      ") La flamme sert à l'atomisation et à l'excitation",
+      "La source de protons est toujours constituée d'une LCC de sodium",
+      "Une lampe multi élément peut être utilisée pour doser plusieurs éléments",
+      "Le monochromateur utilisé dans l'appareillage peut être un prisme ou un réseau",
+      "Un modulateur monté devant le faisceau peut diminuer les interférences spectrales"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, concernant la spectrophotométrie d'absorption moléculaire UVvisible, quelle est celle qui est fausse?",
+    "choices": [
+      ") On utilise des cuves avec deux faces polies",
+      "La présence d'une impureté modifie la position des longueurs d'onde des maxima d'absorption",
+      "C'est la méthode de référence pour l'identification",
+      "C'est une méthode qui permet l'analyse des mélanges",
+      "Les formes acide et basique d'une même molécule peuvent avoir des spectres différents"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les méthodes spectrales quelle est celle qui est fausse ?",
+    "choices": [
+      ") Un acide faible peut présenter des spectres d'absorption moléculaire UV-visible différents en milieu acide et en milieu alcalin",
+      "Une lampe au deutérium émet des rayonnements de longueurs d'onde comprises entre 160 nm et 375 nm",
+      "L'application de la loi de Beer-Lambert nécessite l'utilisation d'un rayonnement incident monochromatique",
+      "Toutes les cellules de mesure utilisées en spectrophotométrie d'absorption moléculaire UV-visible sont en verre",
+      "Le solvant peut modifier la position et l'intensité des bandes d'absorption"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, sur les méthodes spectrales, quelle(s) est (sont) celle(s) qui est (sont) exacte(s)?",
+    "choices": [
+      ") Les molécules susceptibles de fluorescer présentent un rendement quantique nul",
+      "La longueur d'onde d'émission de fluorescence est supérieure à la longueur d'onde d'absorption",
+      "Un groupement auxochrome est un groupe d'atomes responsables de l'absorption de la lumière par une molécule",
+      "La fluorimétrie est une méthode spectrale plus spécifique que la spectrophotométrie d'absorption",
+      "La loi de Beer-Lambert ne se vérifie qu'avec des solutions diluées"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la fluorimétrie, laquelle (lesquelles) est (sont) exactes ?",
+    "choices": [
+      ") La fluorescence est un phénomène dont la durée est à l'échelle de la nanoseconde",
+      "La fluorimétrie est plus sélective que la spectrophotométrie d'absorption U.V.",
+      "La longueur d'onde d'excitation est plus grande que la longueur d'onde d'émission",
+      "L'intensité de la fluorescence est proportionnelle à la concentration si la solution est suffisamment diluée",
+      "Si le rendement quantique est élevé, la sensibilité est plus grande que celle de la spectrophotométrie U.V."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Soit I0 l'intensité de la lumière incidente, I l'intensité de la lumière transmise et C la concentration de la solution (en mol.L-1). Parmi les 5 propositions suivantes concernant la spectrophotométrie d'absorption, la(les)quelle(s) est(sont) vraie(s) ?",
+    "choices": [
+      ") La transmittance T est donnée par T = I/I0",
+      "L'absorbance A est donnée par A = log(T)",
+      "L'absorbance est proportionnelle à la concentration A = kC",
+      "L'effet bathochrome est le déplacement vers les courtes longueurs d'onde",
+      "L'effet hyperchrome est l'augmentation de l'intensité d'absorption"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, cocher celle qui est exacte. Un effet bathochrome en spectrophotométrie UV/visible est:",
+    "choices": [
+      ") Une augmentation de l'intensité d'absorption à la longueur d'onde maximale d'absorption",
+      "Une émission de lumière diffuse",
+      "Un déplacement du maximum d'absorption de la molécule vers de plus grandes longueurs d'onde",
+      "Une diffraction de la lumière",
+      "Une absorption de lumière par le solvant"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, quelles sont celles qui sont exactes ?",
+    "choices": [
+      ") La longueur d'onde du rayonnement émis par fluorescence est inférieure à celle du rayonnement absorbé",
+      "La loi de Beer-Lambert est vérifiée si le rayonnement incident est monochromatique",
+      "Il est possible de déterminer le pKA d'un couple acide/base par spectrophotométrie",
+      "Dans une série chimique, un effet bathochrome correspond à une augmentation de la longueur d'onde d'absorption",
+      "En spectrophotométrie UV-visible, l'absorption du rayonnement ne modifie que l'énergie de rotation de la molécule"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  }
+]

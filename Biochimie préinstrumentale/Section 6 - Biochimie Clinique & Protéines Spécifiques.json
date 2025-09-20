@@ -1,0 +1,40 @@
+[
+  {
+    "question": "Les examens suivants sont normaux dans le myélome non sécrétant, sauf un, lequel?",
+    "choices": [
+      ") Vitesse de sédimentation",
+      "Concentration des protéines sériques",
+      "Électrophorèse des protéines sériques",
+      "Myélogramme",
+      "Électrophorèse des protéines urinaires"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quelle(s) est (sont) la (les) proposition(s) exacte(s) concernant une protéine de Bence-Jones ?",
+    "choices": [
+      ") C'est une protéine urinaire thermosoluble",
+      "Elle permet d'exclure un myélome multiple des os",
+      "C'est une chaîne légère d'immunoglobuline",
+      "C'est une protéine dont le taux est augmenté au cours des états inflammatoires",
+      "Elle peut être révélée par immunofixation"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la drépanocytose, laquelle(lesquelles) est(sont) exacte(s) ?",
+    "choices": [
+      ") L'anomalie responsable correspond à la substitution d'une lysine en position 6 par un acide glutamique sur la chaîne bêta de la globine",
+      "Des crises vaso-occlusives peuvent être observées en cas d'hypoxie",
+      "Le frottis sanguin est caractérisé par la présence de cellules cibles",
+      "Le test de falciformation consiste à créer des conditions réductrices in vitro",
+      "Le diagnostic anténatal repose sur la mise en évidence d'HbS par électrophorèse à partir d'un prélèvement de sang foetal"
+    ],
+    "correct": [
+      1
+    ]
+  }
+]

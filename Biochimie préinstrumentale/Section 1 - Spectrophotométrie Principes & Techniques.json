@@ -1,0 +1,167 @@
+[
+  {
+    "question": "Parmi les propositions suivantes, indiquez laquelle (lesquelles) est (sont) exacte(s) ? La spectrophotométrie d'émission atomique avec torche à plasma permet l'analyse :",
+    "choices": [
+      ") Des métaux lourds",
+      "De l'hydrogène",
+      "D'un mélange de sucres",
+      "Des protéines",
+      "De plusieurs éléments dans un même échantillon"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les affirmations suivantes caractérisant la spectrophotométrie, une seule est vraie. Laquelle ?",
+    "choices": [
+      ") La spectrophotométrie UV visible est une spectrophotométrie d'émission",
+      "En spectrophotométrie d'émission, on n'excite pas les molécules",
+      "En fluorimétrie, l'excitation est produite par la chaleur",
+      "En spectrophotométrie moléculaire UV visible, les molécules sont en solution",
+      "la lampe au deutérium est idéale pour la fluorimétrie"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les méthodes spectrométriques suivantes, quelle est celle qui permet le dosage direct du sodium et du potassium dans les fluides biologiques?",
+    "choices": [
+      ") Infrarouge",
+      "Spectrophotométrie moléculaire UV -visible",
+      "Emission atomique",
+      "Spectrofluorimétrie en solution",
+      "Résonance Magnétique Nucléaire"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les techniques suivantes, indiquer celle(s) qui repose(nt) sur le principe d'une émission de rayonnement par le produit analysé.",
+    "choices": [
+      ") Absorption atomique",
+      "Photométrie de flamme",
+      "Spectrophotométrie UV ou Visible",
+      "Fluorescence",
+      "émission atomique"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "La loi de Beer-Lambert est vérifiée en:",
+    "choices": [
+      ") Spectrophotométrie UV-Visible",
+      "Spectrométrie d'émission atomique",
+      "Spectrophotométrie infrarouge",
+      "Spectrophotométrie Raman",
+      "Spectrométrie d'absorption atomique"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "La lampe à cathode creuse utilisée en spectrophotométrie d'absorption atomique est remplie d'un gaz. Lequel?",
+    "choices": [
+      ") Dichlore",
+      "Dioxygène",
+      "Dioxyde de carbone",
+      "Argon",
+      "Méthane"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, une seule est exacte, Laquelle? Un complexe zinc-EDTA est dosé par spectrophotométrie d'absorption atomique. Sous quelle forme?",
+    "choices": [
+      ") Atome de zinc",
+      "Ion zinc",
+      "Radical",
+      "Hydroxyde de zinc",
+      "Oxyde de zinc"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Pour doser le calcium dans un plasma, on peut utiliser les méthodes d'analyse suivantes sauf une, laquelle?",
+    "choices": [
+      ") Complexonométrie",
+      "Spectrophotométrie UV -visible",
+      "CPG",
+      "Spectrofluorimétrie",
+      "Spectrophotométrie d'absorption atomique"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les techniques suivantes, indiquer celle(s) qui repose(nt) sur le principe d'une émission de rayonnement par le produit analysé.",
+    "choices": [
+      ") Absorption atomique",
+      "Photométrie de flamme",
+      "Spectrophotométrie UV ou Visible",
+      "Fluorescence",
+      "émission atomique"
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "La spectrophotométrie par absorption atomique permet de doser:",
+    "choices": [
+      ") Le plomb",
+      "Le fer",
+      "Le soufre",
+      "Le calcium",
+      "Le cuivre"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les méthodes suivantes, quelle(s) est (sont) celle(s) qui permet(tent) le dosage du calcium?",
+    "choices": [
+      ") Absorption atomique",
+      "Complexométrie",
+      "Chromatographie d'exclusion-diffusion",
+      "Emission atomique",
+      "Potentiométrie"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les méthodes suivantes, quelle(s) est (sont) celle(s) qui mesure(nt) une émission de la lumière par les molécules ou les atomes?",
+    "choices": [
+      ") Colorimétrie",
+      "Photométrie de flamme",
+      "Spectrométrie UV/visible",
+      "Fluorimétrie"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "question": "Parmi les méthodes suivantes, quelle(s) est (sont) celle(s) qui mesure(nt) une absorption de lumière par les atomes ou les molécules ?",
+    "choices": [
+      ") Colorimétrie",
+      "Fluorimétrie",
+      "Photométrie de flamme",
+      "Spectrophotométrie UV/visible",
+      "Spectrophotométrie d'absorption atomique"
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "question": "Parmi les méthodes spectrométriques suivantes, quelle est celle qui permet le dosage direct du sodium et du potassium dans les fluides biologiques?",
+    "choices": [
+      ") Infra-rouge",
+      "Spectrophotométrie moléculaire UV -visible",
+      "Emission atomique",
+      "Spectrofluorimétrie en solution",
+      "Résonance Magnétique Nucléaire"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes quelle(s) est (sont) celle(s) qui est (sont) fausse(s) ? En spectrophotométrie, l'absorption correspond à :",
+    "choices": [
+      ") Une réaction irréversible",
+      "Un phénomène induit par la lumière",
+      "Une complexation",
+      "Une émission de lumière",
+      "Un phénomène chimique"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Quelles sont les propositions exactes ? En photométrie de flamme ou en absorption atomique on utilise préférentiellement la rai de résonance parce que c'est la radiation qui :",
+    "choices": [
+      ") Demande le plus d'énergie\nB) Est la moins spécifique\nC) Permet une recherche qualitative\nD) Est la plus intense\nE) Permet une analyse quantitative"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les prépositions suivantes, quelle(s) est (sont) celles qui est (sont) exacte(s) ? la spectrophotométrie d'absorption atomique :",
+    "choices": [
+      ") Est une méthode d'analyse quantitative d'éléments atomiques à l'état de vapeur ?\nB) Exploite l'absorption d'énergie lumineuse fournie par une lampe à cathode creuse\nC) Utilise un four en graphite pour vaporiser les éléments\nD) Est mise en œuvre sur des spectrophotomètre à double faisceau\nE) Nécessite une correction des interférence par lampe au deutérium"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les méthodes spectrales quelle(s) est (sont) exactes ?",
+    "choices": [
+      ") La lampe tungstène-iode d'un spectrophotomètre UV-Visible permet des mesures aux longueurs d'onde inférieurs à 300 nm\nB) La lampe d'un spectrophotomètre sera préférentiellement une lampe à deutérium\nC) La lampe d'un spectrophotomètre sera préférentiellement une lampe au xénon\nD) Un laser peut être utilisé comme source lumineuse en spectrofluorimétrie\nE) Pour être utilisé en spectrophotométrie, un laser doit être complété par un monochromateur"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la spectrophotométrie UV-visible, quelle(s) est(sont) celle(s) qui est(sont) exacte(s) ?",
+    "choices": [
+      ") En solution diluée la relation entre l'absorbance et la concentration est linéaire\nB) Les cuves en verre permettent de travailler entre 200 nm et 800 nm\nC) Pour que la loi de Beer-Lambert soit vérifiée le rayonnement doit être monochromatique\nD) Les absorbances de 2 composés présent en solution s'additionnent\nE) Lors d'un dosage, il faut toujours soustraire l'absorbance du blanc"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant les méthodes spectrales quelle(s) est (sont) exactes ?",
+    "choices": [
+      ") La lampe tungstène-iode d'un spectrophotomètre UV-Visible permet des mesures aux longueurs d'onde inférieurs à 300 nm\nB) La lampe d'un spectrophotomètre sera préférentiellement une lampe à deutérium\nC) La lampe d'un spectrophotomètre sera préférentiellement une lampe au xénon\nD) Un laser peut être utilisé comme source lumineuse en Spectrofluorimétrie\nE) Pour être utilisé en spectrophotométrie, un laser doit être complété par un monochromateur"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). Les phénomènes d'émission de fluorescence :",
+    "choices": [
+      ") Font intervenir des électrons à l'état singulet\nB) Nécessitent le passage des électrons à l'état triplet\nC) Se caractérise par une durée de vie de l'ordre de la minute\nD) Sont dépendants de la température\nE) Ne sont jamais associés à des pertes d'énergie no radiative"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Les examens suivants sont normaux dans le myélome non sécrétant, sauf un, lequel ?",
+    "choices": [
+      ") Vitesse de sédimentation\nB) Concentration des protéines sériques\nC) Électrophorèse des protéines sériques\nD) Myélogramme\nE) Électrophorèse des protéines urinaires"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes laquelle est inexacte ? En électrophorèse, la mobilité d'une particule varie selon :",
+    "choices": [
+      ") La charge de la particule\nB) Le rayon de la particule\nC) Le pH du milieu\nD) La force ionique du milieu\nE) Le champ électrique appliqué"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propriétés suivantes, indiquer celle(s) qui correspond(ent) aux chylomicrons :",
+    "choices": [
+      ") Ce sont des lipoprotéines de très faible densité\nB) Ils sont composés surtout de triglycérides\nC) Ils sont très mobiles à l'électrophorèse en gel de polyacrylamide\nD) Leur concentration plasmatique est influencée par la prise d'aliments\nE) Ce sont les plus volumineuses lipoprotéines plasmatiques"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quelle(s) technique(s) est (sont) utilisée(s) dans le diagnostic d'une fasciolose ?",
+    "choices": [
+      ") Cellophane adhésive (Scotch-test)\nB) Immunoélectrophorèse\nC) Technique d'extraction de Baermann\nD) Examen coprologique\nE) Tubage duodénal"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quel(s) signe(s) clinique(s) ou biologique(s) peut (peuvent) être associé(s) à une cholestase ?",
+    "choices": [
+      ") Stéatorrhée\nB) Prurit\nC) Intense coloration des selles\nD) Présence d'une lipoprotéine a (Lp(a)) à l'électrophorèse\nE) Diminution des taux sanguins des sels biliaires"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Pour doser le calcium dans un plasma, on peut utiliser les méthodes d'analyse suivantes sauf une, laquelle ?",
+    "choices": [
+      ") Complexonométrie\nB) Sectrophotométrie UV -visible\nC) CPG\nD) Spectrofluorométrie\nE) Spectrophométrie d'absorption atomique"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la fluorométrie, laquelle (lesquelles) est (sont) exacte(s) :",
+    "choices": [
+      ") Les transitions correspondant à une émission de fluorescence sont moins énergétiques que les transitions mises en jeu pour l'excitation du fluorophore\nB) L'intensité de fluorescence est toujours directement proportionnelle à la concentration du fluorophore\nC) La longueur d'onde d'émission dépend de la longueur d'onde d'excitation\nD) Le rendement quantique de fluorescence varie avec la longueur d'onde d'excitation\nE) L'intensité de fluorescence dépend de la longueur d'onde d'excitation"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la fluorométrie, laquelle (lesquelles) est (sont) inexacte(s) :",
+    "choices": [
+      ") Les transitions correspondant à une émission de fluorescence sont moins énergétiques que les transitions mises en jeu pour l'excitation du fluorophore\nB) L'intensité de fluorescence est toujours directement proportionnelle à la concentration du fluorophore\nC) La longueur d'onde d'émission dépend de la longueur d'onde d'excitation\nD) Le rendement quantique de fluorescence varie avec la longueur d'onde d'excitation\nE) L'intensité de fluorescence dépend de la longueur d'onde d'excitation"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Pour doser le calcium dans un plasma, on peut utiliser les méthodes d'analyse suivantes ?",
+    "choices": [
+      ") Complexonométrie\nB) Sectrophotométrie UV -visible\nC) CPG\nD) Spectrofluorométrie\nE) Spectrophométrie d'absorption atomique"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propriétés suivantes correspondant aux chylomicrons, indiquer celle qui est inexacte :",
+    "choices": [
+      ") Ce sont des lipoprotéines de très faible densité\nB) Ils sont composés surtout de triglycérides\nC) Ils sont très mobiles à l'électrophorèse en gel de polyacrylamide\nD) Leur concentration plasmatique est influencée par la prise d'aliments\nE) Ce sont les plus volumineuses lipoprotéines plasmatiques"
+    ],
+    "correct": []
+  },
+  {
+    "question": "En spectrofluorimétrie moléculaire, l'intensité de fluorescence émise par une solution de quinine :",
+    "choices": [
+      ") Dépend de la concentration de la solution étudiée\nB) Dépend du pH de la solution\nC) Est fonction de la longueur d'onde d'excitation\nD) Est influiencée par la nature du solvant\nE) Est indépendante de la température de la solution"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Quelles substances peuvent être analysées directement par spectrofluorimétrie moléculaire ?",
+    "choices": [
+      ") Quinine\nB) Riboflavine\nC) Catécholamines\nD) Quinolones\nE) Vitamines B1"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les méthodes suivantes, indiquez celle(s) qui peut(peuvent) être utilisée(s) pour doser la morphine :",
+    "choices": [
+      ") Spectrofluorimétrie moléculaire\nB) Chromatographie liquide haute performance (HPLC)\nC) Spectroscopie d'absorption atomique\nD) Dosage acido-basique en milieu non aqueux\nE) Complexométrie"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Pour doser le calcium par absorption atomique dans le sérum d'un sujet sain, il est obligatoire :",
+    "choices": [
+      ") D'éliminer les chlorures\nB) D'éliminer les phosphates\nC) De travailler en flamme oxydante\nD) D'utiliser une gamme d'étalonnage\nE) De complexer l'ion Ca++ par l'EDTA"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, indiquez celles qui sont fausses concernant l'absorption atomique.",
+    "choices": [
+      ") La flamme sert à l'atomisation et à l'excitation\nB) La source de protons est toujours constituée d'une LCC de sodium\nC) Une lampe multi élément peut être utilisée pour doser plusieurs éléments\nD) Le monochromateur utilisé dans l'appareillage peut être un prisme ou un réseau\nE) Un modulateur monté devant le faisceau peut diminuer les interférences spectrales"
+    ],
+    "correct": []
+  }
+]

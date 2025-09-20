@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Parmi les propositions suivantes laquelle est inexacte? En électrophorèse, la mobilité d'une particule varie selon:",
+    "choices": [
+      ") La charge de la particule",
+      "Le rayon de la particule",
+      "Le pH du milieu",
+      "La force ionique du milieu",
+      "Le champ électrique appliqué"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant l'électrophorèse de zone, quelle est la proposition exacte? Le rôle essentiel du support est:",
+    "choices": [
+      ") De contenir le milieu liquide dans lequel se déroulent les processus de séparation électrophorétique",
+      "De s'opposer à l'effet Joule",
+      "De limiter la formation des courants convectifs (dus à l'effet Joule)",
+      "De constituer un tamis moléculaire",
+      "De posséder une affinité spécifique pour certains ligands"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les résultats suivants, quel est le plus spécifique pour confirmer un diagnostic de cirrhose hépatique?",
+    "choices": [
+      ") Albuminémie diminuée",
+      "Bilirubine totale élevée",
+      "Transaminases (ALAT) élevées",
+      "Bloc Bêta-Gamma à l'électrophorèse",
+      "Phosphatases alcalines élevées"
+    ],
+    "correct": []
+  },
+  {
+    "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? Quand on effectue une électrophorèse capillaire, on peut utiliser :",
+    "choices": [
+      ") Un milieu liquide dans lequel se déroulent les processus de séparation électrophorétique",
+      "Un gel à base de cyclodextrine",
+      "Une solution tamponnée et additionnée de surfactant ionique",
+      "Une phase solide de silice greffée",
+      "Un gel de porosité contrôlée"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Donner la (les) réponse(s) exacte(s). La réalisation d'un Southern Blot pour la détermination d'empreinte génomique, nécessite d'utiliser:",
+    "choices": [
+      ") Un gel d'électrophorèse",
+      "Des enzymes de restriction",
+      "De l'ADN-polymérase",
+      "Des sondes nucléotidiques",
+      "De l'ARNt"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant l'électrophorèse capillaire, laquelle (lesquelles) est (sont) exacte(s)? Pour détecter les substances séparées par électrophorèse capillaire, on peut utiliser :",
+    "choices": [
+      ") Un spectrophotomètre UV-visible",
+      "Un catharomètre",
+      "Un spectromètre de masse",
+      "Un détecteur électrochimique",
+      "Un fluorimètre"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s) . On réalise l'électrophorèse des protéines du sang à pH=8,6. Les protéines sont alors :",
+    "choices": [
+      ") Sous forme cationique",
+      "Sous forme neutre",
+      "Sous forme anionique",
+      "Migrent vers l'anode",
+      "Migrent vers la cathode"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, laquelle (lesquelles) concerne(nt) la bêta-thalassémie mineure ?",
+    "choices": [
+      ") Elle atteint les populations du Bassin Méditerranéen",
+      "Les sujets atteints présentent toujours une anémie sévère",
+      "L'électrophorèse de l'hémoglobine montre une élévation de l'hémoglobine A2",
+      "Le VGM est toujours supérieur à 90 fL",
+      "Les patients atteints doivent subir régulièrement des transfusions"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes, laquelle (lesquelles) est (sont) exacte(s)? En électrophorèse capillaire, la vitesse de migration de l'analyte :",
+    "choices": [
+      ") Dépend de la nature de la charge de l'analyte",
+      "Ne dépend pas du voltage appliqué",
+      "Dépend du flux d'électro-osmose",
+      "Dépend de la longueur du tube capillaire",
+      "Ne dépend pas de la vitesse électrophorétique de l'analyte chargé"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant la drépanocytose, laquelle (lesquelles) est (sont) exacte(s)?",
+    "choices": [
+      ") Elle est liée à une insuffisance de synthèse d'une des chaînes polypeptidiques de la globine",
+      "Seuls les sujets homozygotes présentent une symptomatologie marquée",
+      "Les crises douloureuses ostéo-articulaires sont fréquentes chez le patient homozygote",
+      "La splénomégalie est fréquente chez le patient homozygote",
+      "A l'électrophorèse de l'hémoglobine, on constate une nette augmentation de l'hémoglobine HbA2"
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "Parmi les propositions suivantes concernant l'électrophorèse, laquelle (lesquelles) est (sont) exacte(s) ?",
+    "choices": [
+      ") La vitesse de migration des solutés ionisés est proportionnelle au champ électrique",
+      "La mobilité électrophorétique des solutés ionisés est proportionnelle au champ électrique",
+      "Les polynucléotides ne peuvent être séparés que sur un support jouant le rôle de tamis moléculaire",
+      "Le phénomène d'électroendosmose permet la migration des solutés anioniques vers la cathode",
+      "La mobilité électrophorétique des protéines est indépendante du pH"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  }
+]
